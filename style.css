@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*utility*/
+
+body{
+    font-family: Open Sans, sans-serif;
+}
+
+
+.btn{
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+}
+
+
+.btn:hover{
+    background-color: aqua;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: #151515;
+}
+
+
+li{
+    list-style: none;
+}
