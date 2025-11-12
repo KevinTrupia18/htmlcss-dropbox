@@ -34,3 +34,41 @@ a{
 li{
     list-style: none;
 }
+
+
+/*Header*/
+
+.navbar-wrap{
+    background-color: white;
+    position: fixed;
+    z-index: 100;
+    height: 75px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.navbar-content{
+    margin: 0 30px;
+    display: flex;
+    width: 30%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.navbar-wrap ul{
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+
+
+
+.navbar-wrap .btn{
+    padding: 5px 15px;
+}
