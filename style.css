@@ -355,3 +355,23 @@ i.fa-check{
     font-size: 24px;
     padding-bottom: 15px;
 }
+
+
+
+/*footer*/
+
+section.business{
+    padding: 50px 250px
+
+}
+
+
+section.business h2{
+    font-size: 45px;
+    padding-bottom: 40px;
+}
+
+
+section.business a{
+    padding: 50px 0;
+}
