@@ -358,8 +358,6 @@ i.fa-check{
 
 
 
-/*footer*/
-
 section.business{
     padding: 50px 250px
 
@@ -369,9 +367,51 @@ section.business{
 section.business h2{
     font-size: 45px;
     padding-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 
 section.business a{
     padding: 50px 0;
+}
+
+
+/* Footer*/
+
+.border-footer{
+    border-bottom: solid white 1px;
+    padding-bottom: 50px;
+}
+
+
+footer h4{
+    margin-bottom: 30px;
+}
+
+
+footer li{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 40px 200px;
+    margin-top: 100px;
+}
+
+
+.list-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h5{
+    padding: 30px 0;
+    color: lightgray;
+    font-weight: 100;
+    font-size: 10px;
 }
